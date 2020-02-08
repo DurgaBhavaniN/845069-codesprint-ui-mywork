@@ -1,0 +1,23 @@
+My Associate id:
+845069
+Other team members:
+845090,845088,844990
+TeamLead:
+845090
+My Role in team:
+1.Saving to localstorage
+2.Reading from localstorage
+My development files:
+1.placeorder.html
+2.validateform.js
+3.viewcard.html
+
+
+I was strong in:
+1.Html
+2.storage services
+3.css
+I was weak in:
+1.Javascript Validation
+Feedback:
+1.able to read codesprint document 1 day in advance will help.
